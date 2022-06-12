@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitlabCloner": {
+      "commandName": "Project",
+      "commandLineArgs": "http://192.168.10.201 6Byu1trnV_JjsAvSyr2y http://192.168.10.200 9Ss_zfYK2css7dKaas2z"
+    }
+  }
+}
